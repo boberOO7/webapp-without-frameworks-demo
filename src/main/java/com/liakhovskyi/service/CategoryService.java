@@ -12,5 +12,5 @@ public interface CategoryService {
 
     Optional<Category> getById(Long id);
 
-    List<Product> getAllProducts();
+
 }
